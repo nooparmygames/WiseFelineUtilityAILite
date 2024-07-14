@@ -1,0 +1,9 @@
+show targeted actions and considerations with a head
+remove min and max range for considerations
+make targets objects so they are jobs friendly
+have time budget for ai
+disabled objects should not participate in targeting systems made of tags or smart objects
+Add an overload for mapToWord with terrain which takes a y offset which you want to add as half height of the character
+Add Map pivot in center
+Search function name (random)
+Add a map to world position overload which takes a Vector2int
